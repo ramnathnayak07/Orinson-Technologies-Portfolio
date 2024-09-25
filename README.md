@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, experiences, and recent projects as a Full-Stack Developer. It's built to provide a brief introduction to my work and technical capabilities. You can also find links to live demos and project source code hosted on GitHub.
 
 # 🖥️ Live Preview
-- You can view the live version of my portfolio <a href="https://the-blog-app-zp54.onrender.com/">here</a><br>.
+- You can view the live version of my portfolio <a href="https://ramnathnayak07.github.io/Orinson-Technologies-Portfolio/">here</a><br>
 
 # 🚀 Tech Stack
 The portfolio is developed using the following technologies:
